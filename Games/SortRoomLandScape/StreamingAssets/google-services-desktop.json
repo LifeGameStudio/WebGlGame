@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271123880956",
+    "project_id": "pm-otg-full-house-sticker",
+    "storage_bucket": "pm-otg-full-house-sticker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271123880956:android:0fe2ff488543d30e01b079",
+        "android_client_info": {
+          "package_name": "com.fc.lg.decor.unpacking.house.room.organize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDAremaaXlGXg2cA5zwqwJ5ctS7GWNxdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
